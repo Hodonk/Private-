@@ -155,8 +155,13 @@ let docs = pickRandom(documents)
                 //welcome\\
         let nama = await XeonBotInc.getName(num)
 memb = metadata.participants.length
-XeonWlcm = await getBuffer(ppuser)
-XeonLft = await getBuffer(ppuser)
+XeonWlcm = await getBuffer(`https://danzzapi.xyz/api/canvas/welcome3?name=${pushname}&mem=${xmembers}&gcname=${metadata.subject}&bg=https://telegra.ph/file/cad544088cc3dd7aab33c.png&picurl=${ppuser}&bg=https://telegra.ph/file/cad544088cc3dd7aab33c.png&gcicon=${ppgroup}&bg=https://telegra.ph/file/cad544088cc3dd7aab33c.png&apikey=danzz`)
+XeonLft = await getBuffer(`https://danzzapi.xyz/api/canvas/goodbye2?name=${pushname}&mem=${xmembers}&gcname=${metadata.subject}&picurl=${ppuser}&bgurl=https://telegra.ph/file/cad544088cc3dd7aab33c.png&apikey=danzz`)
+try {
+                    ppgroup = await papah.profilePictureUrl(anu.id, 'image')
+                } catch {
+                    ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+                }
                 if (anu.action == 'add') {
                 const xeonbuffer = await getBuffer(ppuser)
                 let xeonName = num
@@ -164,7 +169,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Jakarta').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 666,status: 666, thumbnail: XeonWlcm, surface: 666, message: `${metadata.subject}`, orderTitle: '⚘xʏʟᴀᴀ♱', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                let welcome = `┌─❖
+                welcome = (`┌─❖
 │「 𝗛𝗶 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
@@ -173,27 +178,8 @@ XeonLft = await getBuffer(ppuser)
    │✑ ${xmembers}th
    │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
    │✑ ${xtime} ${xdate}
-   └───────────────┈ ⳹`
-let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
-mimetype: docs,
-jpegThumbnail:XeonWlcm,
-mentions: [num],
-fileName: `${metadata.subject}`,
-fileLength: 99999999999999,
-caption: welcome,
-footer: `${global.botname}`,
-headerType: 4,
-contextInfo:{externalAdReply:{
-title: `${global.ownername}`,
-body: `Don't forget to read group description`,
-mediaType:2,
-thumbnail: XeonWlcm,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
-}}
-}
-XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
+   └───────────────┈ ⳹`)
+XeonBotInc.sendImage(anu.id, XeonWlcm, welcome, {quoted:unicorndoc})
                 } else if (anu.action == 'remove') {
                 	const xeonbuffer = await getBuffer(ppuser)
                     const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
@@ -201,7 +187,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 666,status: 666, thumbnail: xeonbuffer, surface: 666, message: `${metadata.subject}`, orderTitle: '⚘xʏʟᴀᴀ♱', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    let leave = `┌─❖
+                    leave = (`┌─❖
 │「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
@@ -210,27 +196,8 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │✑ ${xeonmembers}th
    │✑  𝗧𝗶𝗺𝗲 : 
    │✑  ${xeontime} ${xeondate}
-   └───────────────┈ ⳹`
-let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
-mimetype: docs,
-jpegThumbnail:XeonLft,
-mentions: [num],
-fileName: `${metadata.subject}`,
-fileLength: 99999999999999,
-caption: leave,
-footer: `${global.botname}`,
-headerType: 4,
-contextInfo:{externalAdReply:{
-title: `${global.ownername}`,
-body: `Bye! my friend, take care.`,
-mediaType:2,
-thumbnail: XeonLft,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
-}}
-}
-XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
+   └───────────────┈ ⳹`)
+XeonBotInc.sendImage(anu.id, XeonLft, leave, {quoted:unicorndoc})
                 }
             }
         } catch (err) {
