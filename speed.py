@@ -1863,7 +1863,7 @@ def shell():
     else:
         callback = print_dots(shutdown_event)
 
-    printer('*• SPEEDTEST.NET*\n\n', quiet)
+    printer('*SPEEDTEST.NET*\n\n', quiet)
     try:
         speedtest = Speedtest(
             source_address=args.source,
