@@ -50,13 +50,14 @@ global.ig = "👑 Instagram : @ravensvenix" //insta
 global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
+global.groupbot = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4"
 global.owner = ['6281338302495', '6285338440313']
 global.ownernomer = "6281338302495" //ur number
 global.ownernomer2 = "6285338440313" // second number
 global.ownertag = '6281338302495', '6285338440313' //ur tag number
 global.botname = '☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜' //ur bot name
-global.linkz = "https://chat.whatsapp.com/E7d7j8RzW9lCVn1xS6UEjx" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/E7d7j8RzW9lCVn1xS6UEjx" //ur website to be displayed
+global.linkz = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4" //ur website to be displayed
 global.botscript = 'https://github.com/RavensVenix/elainav5' //script link
 global.reactmoji = "🦋" //ur menu react emoji
 global.themeemoji = "🦋" //ur theme emoji
