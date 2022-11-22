@@ -29,6 +29,15 @@
 
 ### Changelog
 OBFUSCATED - SORRY BUT I NEED TO DO THIS.
+Added auto read sw
+Added more nsfw
+Added more sfw
+Added cecan
+Added ukhty
+Added hijaber
+Added bokep3
+Added auto read message
+Added auto react message
 
 -------
 
