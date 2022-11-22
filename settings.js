@@ -32,12 +32,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 zeeone = 'hCSi66X3'
+zenzkey2 = '84397dfb9918'
 zenzkey = '9d696cae52be'
 lolkey = '380f33983d5719bf2aaa441f'
 frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
+global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
 global.vcardowner = ['6281338302495', '6285338440313', '6283899515608'] //number
 global.allpay = "081338302495" // nomor pertama / first number donate
 global.allpay2 = "085338440313" // nomor ke dua /second number donate
