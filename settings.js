@@ -38,7 +38,7 @@ frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
-global.vcardowner = ['6281338302495', '6285338440313'] //number
+global.vcardowner = ['6281338302495', '6285338440313', '6283899515608'] //number
 global.allpay = "081338302495" // nomor pertama / first number donate
 global.allpay2 = "085338440313" // nomor ke dua /second number donate
 global.ownername = "⚘xʏʟᴀᴀ♱" //owner
@@ -51,10 +51,11 @@ global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4"
-global.owner = ['6281338302495', '6285338440313']
+global.owner = ['6281338302495', '6285338440313', '6283899515608']
 global.ownernomer = "6281338302495" //ur number
 global.ownernomer2 = "6285338440313" // second number
-global.ownertag = '6281338302495', '6285338440313' //ur tag number
+global.ownernomer3 = "6283899515608" // stfu
+global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
 global.botname = '☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4" //ur website to be displayed
