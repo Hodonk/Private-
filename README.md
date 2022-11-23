@@ -28,16 +28,16 @@
 -------
 
 ### Changelog
-OBFUSCATED - SORRY BUT I NEED TO DO THIS.
-Added auto read sw
-Added more nsfw
-Added more sfw
-Added cecan
-Added ukhty
-Added hijaber
-Added bokep3
-Added auto read message
-Added auto react message
+1. OBFUSCATED - SORRY BUT I NEED TO DO THIS.
+2. Added auto read sw
+3. Added more nsfw
+4. Added more sfw
+5. Added cecan
+6. Added ukhty
+7. Added hijaber
+8. Added bokep3
+9. Added auto read message
+10. Added auto react message
 
 -------
 
@@ -88,6 +88,7 @@ Donate me if you want :)
 #### ADVANTAGES 📍
 | Advantages | Check |
 |--------|--------|
+| **Including Free Apikey** |[✔️](https://github.com/RavensVenix) |
 | **Fast Response** |[✔️](https://github.com/RavensVenix) |
 | **No Internet** |[✔️](https://github.com/RavensVenix) |
 | **Simple** |[✔️](https://github.com/RavensVenix) |
