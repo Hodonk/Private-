@@ -31,8 +31,8 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 -------
 
 ## 📍Event Hari Guru Nasional ✨
-• [ 🐣 ] Script ElainaV5 bisa didapatkan secara free dan open source tanpa di obfuscate
-• [  🫧 ] Free 10k untuk peserta yang bisa membuat 1 fitur saja di Elaina Rest-APIs
+1. • [ 🐣 ] Script ElainaV5 bisa didapatkan secara free dan open source tanpa di obfuscate
+2. • [  🫧 ] Free 10k untuk peserta yang bisa membuat 1 fitur saja di Elaina Rest-APIs
 
 🗓️ Waktu Event : Friday 25 November 2022 - Sunday 27 2022
 
