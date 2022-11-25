@@ -6069,6 +6069,15 @@ XeonBotInc.sendMessage(from,{text:te,mentions: [y], },{quoted:fkontak})
 reply(`Belum Ada User Yang Jadibot`)
 }
 break
+case 'repeat':{
+                let text1 = q.split("|")[0]
+                let text2 = q.split("|")[1]
+                  if (!text1) return m.reply(`Example! : ${order + ' ' + 'test|30'}`)    
+                  if (!text2) return m.reply(`Example! : ${order + ' ' + 'test|30'}`)
+                  let txtzh = `${text1}`.repeat(text2)
+               m.reply(txtzh)
+              }
+           break
 case 'spamcall':{
 			if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
@@ -9560,7 +9569,7 @@ if (isBanChat) return reply(mess.banChat)
 case 'changelog':
 if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-return reply (`V6
+reply (`V6
 💙 Added tweetvid & tweetimg
 👾 Uptaded Rest APIs ( Using Elaina Rest-APIs )
 🔰 Added cecan & cogan
@@ -9571,8 +9580,8 @@ break
 case 'event':
 if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-return reply (`📍Event Hari Guru Nasional ✨
-• [ 🐣 ] Script elainav6 bisa didapatkan secara free dan open source tanpa di obfuscate
+reply (`📍Event Hari Guru Nasional ✨
+• [ 🐣 ] Script Elainav6 bisa didapatkan secara free dan open source tanpa di obfuscate
 • [  🫧 ] Free 10k untuk peserta yang bisa membuat 1 fitur saja di Elaina Rest-APIs
 
 🗓️ Waktu Event : Friday 25 November 2022 - Sunday 27 2022`)
@@ -13008,6 +13017,7 @@ _⫹⫺ Features : 900+_
 ╠${sp} ${prefix}changelog
 ╠${sp} ${prefix}event
 ╠${sp} ${prefix}spamsw
+╠${sp} ${prefix}repeat
 ╠═══════✪「 GROUP 」
 ╠${sp} ${prefix}kudeta
 ╠${sp} ${prefix}fitnah
