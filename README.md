@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-𝒆𝒍𝒂𝒊𝒏𝒂𝒗𝟓<br></h1>
+𝐄𝐥𝐚𝐢𝐧𝐚𝐕𝟔<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/1a90778bbe4209c1cad01.jpg?size=1000" height="428" width="428" />
 </p>
@@ -10,7 +10,7 @@
 Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">Elaina Rest-APIs</a>
 </p>
 <p align="center">
-𝒆𝒍𝒂𝒊𝒏𝒂𝒗𝟓 | Original Base From <a href="https://github.com/DGXeon" target="_blank">@DGXeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝐄𝐥𝐚𝐢𝐧𝐚𝐕𝟔 | Original Base From <a href="https://github.com/DGXeon" target="_blank">@DGXeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
