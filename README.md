@@ -22,7 +22,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
-<a href="https://github.com/RavensVenix/elainav5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
+<a href="https://github.com/RavensVenix/elainav6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 <img src="https://telegra.ph/file/715259342d27cc48c11e1.jpg?size=1000" height="428" width="428" />
@@ -31,7 +31,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 -------
 
 ## 📍Event Hari Guru Nasional ✨
-• [ 🐣 ] Script ElainaV5 bisa didapatkan secara free dan open source tanpa di obfuscate
+• [ 🐣 ] Script elainav6 bisa didapatkan secara free dan open source tanpa di obfuscate
 
 • [  🫧 ] Free 10k untuk peserta yang bisa membuat 1 fitur saja di Elaina Rest-APIs
 
@@ -40,16 +40,19 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 -------
 
 ### Changelog
-1. OBFUSCATED - SORRY BUT I NEED TO DO THIS.
-2. Added auto read sw
-3. Added more nsfw
-4. Added more sfw
-5. Added cecan
-6. Added ukhty
-7. Added hijaber
-8. Added bokep3
-9. Added auto read message
-10. Added auto react message
+V6
+
+💙 Added tweetvid & tweetimg
+
+👾 Uptaded Rest APIs ( Using Elaina Rest-APIs )
+
+🔰 Added cecan & cogan
+
+🫐 Added more sfw & nsfw
+
+✨ Added autosw & autoread
+
+☀️ Added autoreact
 
 -------
 
@@ -72,9 +75,13 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 4. Don't misuse this script!
 
 You are a developer?
+
 Understand the basics of nodejs?
+
 Can you help me make this script?
+
 Let's collaborate!
+
 -------
 ## ```Let's be friends !```
 <p align="center">
@@ -143,18 +150,18 @@ Total features 900+, the box below is only interesting features |
 
 # Setup For Deployment 👇
 
-- [FORK THIS REPO & GIVE A STARS](https://github.com/RavensVenix/elainav5/fork)
+- [FORK THIS REPO & GIVE A STARS](https://github.com/RavensVenix/elainav6/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
 
-- [CHANGE OWNER NUMBER VCARD](https://github.com/RavensVenix/elainav5/blob/master/settings.js#L58)
-- [CHANGE OWNER NUMBER MENU](https://github.com/RavensVenix/elainav5/blob/master/settings.js#L65)
-- [CHANGE OWNER NUMBER TAG](https://github.com/RavensVenix/elainav5/blob/master/settings.js#L66)
-- [CHANGE OWNER NAME](https://github.com/RavensVenix/elainav5/blob/master/settings.js#L59)
-- [CHANGE BOT NAME](https://github.com/RavensVenix/elainav5/blob/master/settings.js#L67)
+- [CHANGE OWNER NUMBER VCARD](https://github.com/RavensVenix/elainav6/blob/master/settings.js#L58)
+- [CHANGE OWNER NUMBER MENU](https://github.com/RavensVenix/elainav6/blob/master/settings.js#L65)
+- [CHANGE OWNER NUMBER TAG](https://github.com/RavensVenix/elainav6/blob/master/settings.js#L66)
+- [CHANGE OWNER NAME](https://github.com/RavensVenix/elainav6/blob/master/settings.js#L59)
+- [CHANGE BOT NAME](https://github.com/RavensVenix/elainav6/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
@@ -163,7 +170,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RavensVenix/elainav5/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RavensVenix/elainav6/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -174,8 +181,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/RavensVenix/elainav5.git
-cd elainav5
+git clone https://github.com/RavensVenix/elainav6.git
+cd elainav6
 
 npm start
 ```
@@ -191,8 +198,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/RavensVenix/elainav5
-cd elainav5
+git clone https://github.com/RavensVenix/elainav6
+cd elainav6
 npm start
 ```
 ## `For VPS`
@@ -203,8 +210,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/RavensVenix/elainav5
-cd elainav5
+git clone https://github.com/RavensVenix/elainav6
+cd elainav6
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
