@@ -1,7 +1,7 @@
 {
-  "name": "elainav5",
+  "name": "elainav6",
   "description": "WhatsApp BOT using NodeJS and Adiwajshing/Baileys"
-  "repository": "https://github.com/RavensVenix/elainav5",
+  "repository": "https://github.com/RavensVenix/elainav6",
   "logo": "https://telegra.ph/file/df0edc1680a71b37145af.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [

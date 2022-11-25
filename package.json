@@ -1,5 +1,5 @@
 {
-  "name": "elainav5",
+  "name": "elainav6",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "elaina.js",
@@ -79,10 +79,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RavensVenix/elainav5.git"
+    "url": "git+https://github.com/RavensVenix/elainav6.git"
   },
   "bugs": {
-    "url": "https://github.com/RavensVenix/elainav5/issues"
+    "url": "https://github.com/RavensVenix/elainav6/issues"
   },
-  "homepage": "https://github.com/RavensVenix/elainav5#readme"
+  "homepage": "https://github.com/RavensVenix/elainav6#readme"
 }
