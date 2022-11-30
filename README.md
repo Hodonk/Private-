@@ -14,7 +14,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=9XcBDbFm8NA"><img title="Size" src="https://img.shields.io/badge/Demo-Video-green"></a>
+<a href="https://www.youtube.com/c/4KSanzz"><img title="Size" src="https://img.shields.io/badge/Demo-Video-green"></a>
 </p>
 
 ------
@@ -85,10 +85,10 @@ Let's collaborate!
 -------
 ## ```Let's be friends !```
 <p align="center">
-<a href="https://wa.me/6281338302495?text=menu"><img src="https://img.shields.io/badge/-BOT%20NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281236167286?text=menu"><img src="https://img.shields.io/badge/-BOT%20NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://wa.me/6281338302495"><img src="https://img.shields.io/badge/-CONTACT%20XYLAA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4K"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://chat.whatsapp.com/C2ky94bRBkCE3ILsc3uDw0"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/4KSanzz" /><br>
 <a href=https://www.youtube.com/watch?v=9XcBDbFm8NA"><img src="https://img.shields.io/badge/-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
