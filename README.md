@@ -22,7 +22,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
-<a href="https://github.com/RavensVenix/elainav6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
+<a href="https://github.com/4ksanzz/elainav6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 <img src="https://telegra.ph/file/715259342d27cc48c11e1.jpg?size=1000" height="428" width="428" />
@@ -86,7 +86,7 @@ Let's collaborate!
 ## ```Let's be friends !```
 <p align="center">
 <a href="https://wa.me/6281236167286?text=menu"><img src="https://img.shields.io/badge/-BOT%20NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://wa.me/6281338302495"><img src="https://img.shields.io/badge/-CONTACT%20XYLAA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281236167286"><img src="https://img.shields.io/badge/-CONTACT%20Sanzz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/C2ky94bRBkCE3ILsc3uDw0"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/4KSanzz" /><br>
 <a href=https://www.youtube.com/watch?v=9XcBDbFm8NA"><img src="https://img.shields.io/badge/-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
